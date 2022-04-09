@@ -7,10 +7,5 @@
 
 <font style="font-weight:bold;">
     Preview:
-</font>
-
-<br>
-<br>
-
-<img src=https://imgur.com/a/BXsJkSC >
+https://imgur.com/a/BXsJkSC
     
