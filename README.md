@@ -7,5 +7,9 @@
 
 <font style="font-weight:bold;">
     Preview:
-https://imgur.com/a/BXsJkSC
-    
+</font>
+
+<br>
+<br>
+
+<img src=https://media.discordapp.net/attachments/769477867469537330/962629209182859275/unknown.png>
