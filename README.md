@@ -3,7 +3,7 @@
 - Design to work ESX framework.
 
 # Preview
-[image](https://media.discordapp.net/attachments/769477867469537330/962629209182859275/unknown.png)
+<img src=https://media.discordapp.net/attachments/769477867469537330/962629209182859275/unknown.png>
 
 # Dependency
 - ESX
