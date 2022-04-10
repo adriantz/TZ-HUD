@@ -1,15 +1,9 @@
-<font style="font-weight:bold;">
-    TZ HUD V1
-</font>
+# TZ-HUD V1
+- Fivem HUD - JOB, MONEY, BLACK MONEY & BANK
+- Design to work ESX framework.
 
-<br>
-<br>
+# Preview
+[image](https://user-images.githubusercontent.com/82306584/130363160-9c63031b-8e19-42c1-aab3-1d24326ac322.png)
 
-<font style="font-weight:bold;">
-    Preview:
-</font>
-
-<br>
-<br>
-
-<img src=https://media.discordapp.net/attachments/769477867469537330/962629209182859275/unknown.png>
+# Dependency
+- ESX
