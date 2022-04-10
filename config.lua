@@ -1,5 +1,5 @@
 TZ = {}
-TZ.HideOnHidedRadar = true;
+TZ.HideOnHidedRadar = true; 
 
 
 
